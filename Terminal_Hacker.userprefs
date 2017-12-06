@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A1877E6E-6644-1DF7-E0E8-06756BD5647B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hacker.cs">
+    <Files>
+      <File FileName="Assets/Hacker.cs" Line="42" Column="21" />
+      <File FileName="Assets/WM2000/Terminal/DisplayBuffer.cs" Line="23" Column="17" />
+      <File FileName="Assets/WM2000/Terminal/Terminal.cs" Line="41" Column="43" />
+      <File FileName="Assets/WM2000/Display/Display.cs" Line="11" Column="5" />
+      <File FileName="Assets/WM2000/Terminal/InputBuffer.cs" Line="12" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Terminal__Hacker PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
